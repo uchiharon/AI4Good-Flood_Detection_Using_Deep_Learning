@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pandas
+ipyfilechooser
+ipywidgets
+tensorflow<2.11
