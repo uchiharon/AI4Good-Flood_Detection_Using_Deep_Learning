@@ -23,11 +23,11 @@ Pip package manager
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/flood-damage-detection.git
+git clone https://github.com/uchiharon/AI4Good-Flood_Detection_Using_Deep_Learning.git
 Navigate to the project directory:
 bash
 Copy code
-cd flood-damage-detection
+cd AI4Good-Flood_Detection_Using_Deep_Learning
 Install the required packages:
 Copy code
 pip install -r requirements.txt
